@@ -1,7 +1,7 @@
 .idea
 *.iml
 .DS_Store
-target
+#target
 config
 src/main/ui/node_modules
 src/main/ui/node
